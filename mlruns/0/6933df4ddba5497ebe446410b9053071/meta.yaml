@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/gustavo/Desktop/fast-api/mlruns/0/6933df4ddba5497ebe446410b9053071/artifacts
+end_time: 1752905018428
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6933df4ddba5497ebe446410b9053071
+run_name: wistful-slug-245
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752905018372
+status: 3
+tags: []
+user_id: gustavo

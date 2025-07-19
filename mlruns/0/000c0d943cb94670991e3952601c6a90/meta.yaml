@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/gustavo/Desktop/fast-api/mlruns/0/000c0d943cb94670991e3952601c6a90/artifacts
+end_time: 1752904641463
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 000c0d943cb94670991e3952601c6a90
+run_name: bemused-deer-567
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752904636495
+status: 3
+tags: []
+user_id: gustavo
